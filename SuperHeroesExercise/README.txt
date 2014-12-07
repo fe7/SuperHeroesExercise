@@ -3,7 +3,7 @@ SuperHeroesExercise program
 ### Description ###
 Program will take three separate command line parameters: a text file, name of employee, and name of another employee.
 First parameter will include the filename which contains the employee date:
-A list of employees will be provided in a text file, one employee per line where first line is heading, and following lines are employee data separated by “|” includes ID of employee, name of employee and manager ID. 
+A list of employees will be provided in a text file, one employee per line where first line is heading, and following lines are employee data separated by â€œ|â€� includes ID of employee, name of employee and manager ID. 
 
 Second and Third parameters of program are the employee name.
 
@@ -33,7 +33,7 @@ Latest version of JRE, if unsure refer to http://www.oracle.com/technetwork/java
 3) Run the program using command to run the program:
 	java ManagementChain superheroes.txt "Batman" "Super Ted"
 
-   This would run the program using the atchm_3134.txt file and would find message paths for the employees “Batman” and “Super Ted".
+   This would run the program using the superheroes.txt file and would find message paths for the employees â€œBatmanâ€� and â€œSuper Ted".
 
    Syntax for input:
    <inputfile.txt> is the first parameter, file which contains the employee data
