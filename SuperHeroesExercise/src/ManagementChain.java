@@ -43,8 +43,8 @@ public class ManagementChain {
 			String line, employeeName;
 			int employeeID, managerID;
 			int x = 0; 
-			/*
-			 * SPECIFICATION: separated by | are in order employee ID, employee name and employees managerID on each line 
+		
+			/*SPECIFICATION: separated by | are in order employee ID, employee name and employees managerID on each line 
 			 * 					managerID will be an integer if given an ID, otherwise empty field means employee has no manager
 			 * ASSUMPTION: first line is always headings and does not contain other data
 			 */
